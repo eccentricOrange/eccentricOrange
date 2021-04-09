@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @eccentricOrange
-- I'm a high-school student that loves robotics. Most of my code here is probably more acadmic though but I'll gradually upload more...
+👋 Hi, I’m @eccentricOrange. I'm a high-school student that loves robotics. Most of my code here is probably more acadmic though but I'll gradually upload more...
 - I work with: Python, C++ (Arduino), LabVIEW (myRIO FPGA, Desktop)
 - Currently exploring Linux and Raspberry Pi
 - Want to learn JavaScript and C# (the kind used in Windows)
