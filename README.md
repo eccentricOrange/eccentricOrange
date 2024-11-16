@@ -2,12 +2,17 @@
 
 Check out my personal blog: https://eccentricorange.netlify.app/ \[[repo](https://github.com/eccentricOrange/personal-blogs/)\]
 
-*   **I work with:** Python, C++ (Arduino, ESP32), LabVIEW (myRIO FPGA, Desktop), KiCAD (PCB designing), physical electronics
-*   **Currently exploring:** STM32 and ESP32 embedded C dev, RTOS, ROS2, PCB Designing
-*   **Learning about:** core electrical/electronics, control systems, power electronics, kinematics, localization
-*   **Want to learn:** core CS (architectures, OS, DSA, scaling, virtualization), the wizard-like skills old electrical engineers have
-*   **Other random skills:** Git, Docker, Linux, CI+CD, Raspberry Pi, soldering, PCB designing, technical documentation
-*   **Random interests:** articulately-written science-fiction, music production, OS-level vulnerabilities, intersection of quantum mechanics and astrophysics, table tennis, cool algorithms
+| Field | Very familiar | Familiar/learning | Want to learn |
+| --- | --- | --- | --- |
+| **Embedded platforms** | Arduino, ESP32, STM32, myRIO, Raspberry Pi | STM32, ESP32 | FPGAs, PIC, Raspberry Pi |
+| **Programming languages** | Python, C, LabVIEW | C, C++ | C++, Rust |
+| **Communication protocols** | UART, I2C | MQTT, CAN | SPI, USB, Ethernet, Bluetooth, Wi-Fi |
+| **CS concepts** | Basic programming, project architecture, OOP | SQL, DS&A, OS, robotics algorithms | OS, networking, ML |
+| **Hardware** | Sensors, DC motors, motor drivers, LVDC regulators | Motor drivers, power electronics | AC motors, RF, high-speed digital electronics |
+| **Software tools** | Git, Docker, Linux CI/CD, KiCAD | ROS2, RTOS | Linux, Altium, Fusion 360 |
+| **Skills** | Soldering, PCB designing, technical documentation, programming, team management, system design & integration | PCB designing, technical writing | Testing and validation, R&D, project management |
+
+**Random interests:** articulately-written science-fiction, music production, OS-level vulnerabilities, intersection of quantum mechanics and astrophysics, table tennis, cool algorithms
 
 <a href="https://stackexchange.com/users/15114379/eccentricorange"><img src="https://stackexchange.com/users/flair/15114379.png" width="208" height="58" alt="profile for eccentricOrange on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for eccentricOrange on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
