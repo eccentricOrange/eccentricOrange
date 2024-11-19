@@ -4,7 +4,7 @@ Check out my personal blog: https://eccentricorange.netlify.app/ \[[repo](https:
 
 | Field | Very familiar | Familiar/learning | Want to learn |
 | --- | --- | --- | --- |
-| **Embedded platforms** | Arduino, ESP32, STM32, myRIO, Raspberry Pi | STM32, ESP32 | FPGAs, PIC, Raspberry Pi |
+| **Embedded platforms** | Arduino, ESP32, myRIO, Raspberry Pi | STM32, ESP32 | FPGAs, PIC, Raspberry Pi |
 | **Programming languages** | Python, C, LabVIEW | C, C++ | C++, Rust |
 | **Communication protocols** | UART, I2C | MQTT, CAN | SPI, USB, Ethernet, Bluetooth, Wi-Fi |
 | **CS concepts** | Basic programming, project architecture, OOP | SQL, DS&A, OS, robotics algorithms | OS, networking, ML |
