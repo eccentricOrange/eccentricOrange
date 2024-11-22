@@ -2,13 +2,13 @@
 
 Check out my personal blog: https://eccentricorange.netlify.app/ \[[repo](https://github.com/eccentricOrange/personal-blogs/)\]
 
-| Field | Very familiar | Familiar/learning | Want to learn |
+| Field | Comfortable | Familiar/learning | Want to learn |
 | --- | --- | --- | --- |
 | **Embedded platforms** | Arduino, ESP32, myRIO, Raspberry Pi | STM32, ESP32 | FPGAs, PIC, Raspberry Pi |
 | **Programming languages** | Python, C, LabVIEW | C, C++ | C++, Rust |
 | **Communication protocols** | UART, I2C | MQTT, CAN | SPI, USB, Ethernet, Bluetooth, Wi-Fi |
 | **CS concepts** | Basic programming, project architecture, OOP | SQL, DS&A, OS, robotics algorithms | OS, networking, ML |
-| **Hardware** | Sensors, DC motors, motor drivers, LVDC regulators | Motor drivers, power electronics | AC motors, RF, high-speed digital electronics |
+| **Hardware** | Sensors, DC motors, motor drivers, LVDC regulators, AD2 | Motor drivers, power electronics | AC motors, RF, high-speed digital electronics |
 | **Software tools** | Git, Docker, Linux CI/CD, KiCAD | ROS2, RTOS | Linux, Altium, Fusion 360 |
 | **Skills** | Soldering, PCB designing, technical documentation, programming, team management, system design & integration | PCB designing, technical writing | Testing and validation, R&D, project management |
 
